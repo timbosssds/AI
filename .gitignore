@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+ai/Lib/
+ai/Scripts/
+ai/include/
+ai/share/
+ai/bin/
+.env/
+__pycache__/
+*.pyc
+.env

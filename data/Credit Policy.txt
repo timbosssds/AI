@@ -1,0 +1,34 @@
+**Credit Policy for Rate Negotiation**  
+
+## Purpose  
+This policy provides rules and guidance to staff when a customer contacts the bank seeking a rate negotiation. Staff must assess the customer’s eligibility based on key criteria to ensure fair and responsible lending practices.
+
+## Eligibility Criteria  
+Rate negotiations must consider the following factors:
+
+### 1. Credit History  
+- **Defaults & Arrears**: Customers with recent defaults or arrears (past 12 months) may not be eligible for rate reductions.
+- **High-Risk Spending**: Frequent transactions at gambling institutions, payday lenders, or other high-risk entities may impact eligibility.
+
+### 2. Borrower Type  
+- **Age**: Customers nearing retirement (above 55) may require additional review based on future income stability.
+- **Location**: Customers in high-risk postcodes (e.g., areas with declining property values) may not qualify for lower rates.
+- **Occupation & Industry**: Customers employed in volatile industries (e.g., hospitality, retail, gig economy) may require additional assessment.
+- **Tenure**: Increased tenure provides a positive weight (as it can cost more to attract new customers than retain existing).
+
+### 3. Financial Position  
+- **Income Stability**: Customers with irregular income sources (e.g., casual employment, contract work) may require a higher risk assessment.
+- **Savings & Emergency Funds**: Customers with minimal savings or high discretionary spending may be considered higher risk.
+
+## Approval Process  
+1. **Customer Inquiry**: Staff collect relevant financial details and history.
+2. **Assessment**: Evaluate against the above criteria.
+3. **Escalation**: If the case is borderline, refer to a senior credit officer.
+4. **Decision & Communication**: Provide the customer with the outcome and rationale.
+
+## Exceptions  
+Exceptions may be made for long-standing customers, those experiencing temporary hardship, or high-value clients at the discretion of a senior credit officer.
+
+## Compliance  
+All decisions must align with responsible lending obligations and be recorded in internal systems for audit purposes.
+
